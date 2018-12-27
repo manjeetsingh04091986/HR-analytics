@@ -1,3 +1,3 @@
 # HR-analytics
 HR analytics
-TO predict Who will be hire and who wont.
+to predict Who will be hire and who wont.
